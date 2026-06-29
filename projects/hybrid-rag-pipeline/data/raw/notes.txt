@@ -1,0 +1,6 @@
+Grid Update 2026 - Brainstorming & Sync Notes
+- Project Titan: upgrading sub-station nodes to Model-X firmware.
+- Main issue: High latency in dense retrieval matches during peak load.
+- Solution: Implement a hybrid BM25 + Vector pipeline (alpha=0.47).
+- Note: Model-X docs are stored in the secure repo, not the public html.
+- Contact Sarah from DevOps if chunking strategy fails on the edge devices.
