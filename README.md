@@ -1,4 +1,4 @@
-# Building AI Systems 🚀
+# Experimenting AI Systems 
 
 
 The goal of this repository is to understand how modern AI applications are engineered in practice, including Retrieval-Augmented Generation (RAG), vector databases, embeddings, agent systems, evaluation frameworks, and scalable AI infrastructure.
@@ -154,7 +154,6 @@ Final Answer
 
 Current progress:
 
-* [x] Repository setup
 * [x] AI systems learning notes started
 * [ ] Multi-format document loader
 * [ ] Chunking pipeline
